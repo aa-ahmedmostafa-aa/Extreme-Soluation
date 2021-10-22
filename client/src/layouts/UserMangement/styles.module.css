@@ -1,0 +1,30 @@
+.cover {
+  background-image: url("../../assits/login/bg.png");
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: 100% 100%;
+}
+.header {
+  padding: 1.5rem 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link{
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 0rem 3rem;
+}
+.line_parent {
+  width: 100%;
+  background-color: #eeecec;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.line {
+  height: 0.3rem;
+  width: 60%;
+  background-color: #4444ff;
+}

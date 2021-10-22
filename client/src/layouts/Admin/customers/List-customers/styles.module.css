@@ -1,0 +1,58 @@
+.mainSection {
+  padding-top: 1rem;
+}
+.header {
+  font: normal normal medium 28px/34px Montserrat;
+  letter-spacing: 0px;
+}
+
+/* tabel */
+.tabel {
+  background-color: #fff;
+  padding: 1rem ;
+  border-radius: 0.5rem;
+}
+.tabelHeader {
+  background: #f3ffff 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  padding: 10px;
+}
+.tabelHeader select {
+  outline: 0;
+  border: 0;
+  padding: 3px;
+
+  font-weight: 500;
+  line-height: 18px;
+  font-size: 14px;
+  letter-spacing: 0px;
+  color: #000000;
+  cursor: pointer;
+}
+
+.tableContent td {
+  font-weight: 500;
+  line-height: 19px;
+  font-size: 15px;
+  /* white-space: nowrap; */
+}
+.tableContent th {
+  /* font-weight: 500; */
+  line-height: 19px;
+  font-size: 16px;
+  color: #000000;
+  white-space: nowrap;
+}
+
+.tableContent thead {
+  background-color: #d8d8d8;
+  border-radius: 5px;
+}
+
+.deleteIcon {
+  color: #f51313;
+  cursor: pointer;
+}
+.checkBox {
+  cursor: pointer;
+}

@@ -1,0 +1,45 @@
+.customModelWidth {
+  width: 80%;
+  border-radius: 3rem;
+}
+
+.card {
+  width: 100%;
+  height: 100%;
+  border-radius: 3rem !important;
+}
+.closeIcon {
+  position: absolute;
+  z-index: 1000;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+.close {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px;
+  background-color: #fff;
+
+  border-radius: 50%;
+}
+.artPieceImg {
+  width: 100%;
+  height: 500px;
+}
+.artPieceName {
+  color: #007bff;
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+}
+.artPieceDescription {
+  font-size: 1rem;
+  padding: 1.5rem 1rem;
+  color: #000 !important;
+}

@@ -1,0 +1,65 @@
+
+.welcomeText {
+  font: normal normal medium 18px/22px Montserrat;
+  letter-spacing: 0px;
+  color: #272727;
+}
+.welcomePrgrph {
+  font: normal normal medium 16px/19px Montserrat;
+  letter-spacing: 0px;
+  color: #b9b9b9;
+}
+.adminName {
+  font: normal normal 600 18px/22px Montserrat;
+  letter-spacing: 0px;
+  color: #0040ff;
+  text-transform: capitalize;
+}
+.boxsContent {
+  margin-top: 140px;
+}
+.boxstyle {
+  width: 312px;
+  height: 163px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 35px #00000026;
+  border-radius: 5px;
+  padding-top: 1px;
+}
+
+.iconBox {
+  width: 74px;
+  height: 69px;
+  background: #0000ff 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  color: #ffffff;
+  /* transform:translateY(-50%); */
+  margin-top: -35px;
+}
+.boxBtn {
+  background: #0000ff 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  padding: 16px 33px;
+  font: normal normal medium 16px/19px Montserrat;
+  letter-spacing: 0px;
+  color: #ffffff;
+  border: none;
+  text-transform: capitalize;
+  /* transform:translateY(%); */
+  /* margin-bottom: 30px; */
+}
+.boxNum {
+  margin-top: 20px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0px;
+  color: #0000ff;
+}
+.boxType {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0px;
+  color: #272727;
+}

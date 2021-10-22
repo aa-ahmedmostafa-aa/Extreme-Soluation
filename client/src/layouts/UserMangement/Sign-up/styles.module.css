@@ -1,0 +1,50 @@
+.SignUpCon {
+  padding: 1rem 10rem 3rem;
+}
+
+.SignUpConFormInputFields {
+  padding: 1.1rem 1.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 1px solid #4444ff;
+  border-radius: 0.5rem;
+  width: 100%;
+}
+.labelInput {
+  font-size: 1rem;
+  padding: 1rem 1rem 0.5rem;
+  font-weight: bold;
+}
+.SignUpConFormInputFields:focus {
+  outline: 0;
+}
+
+.iconSignUpPasswordShowHide {
+  color: #4444ff;
+  font-size: 1.5rem;
+  border-radius: 28px;
+  position: absolute;
+  top: 19.7rem;
+  right: 11.5rem;
+  cursor: pointer;
+}
+.iconSignUpConfirmPasswordShowHide{
+  color: #4444ff;
+  font-size: 1.5rem;
+  border-radius: 28px;
+  position: absolute;
+  top:27rem;
+  right: 11.5rem;
+  cursor: pointer;
+}
+.SignUpBtn {
+  width: 100%;
+  font: normal normal normal 20px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #ffffff;
+  padding: 1rem;
+  background: #664dcb 0% 0% no-repeat padding-box;
+  box-shadow: 0px 2px 6px #e7edef;
+  margin-top: 1.5rem;
+  border: none;
+  border-radius: 5px;
+}

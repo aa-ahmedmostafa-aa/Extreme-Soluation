@@ -1,0 +1,62 @@
+/* slideBar */
+.slideBar {
+  position: absolute;
+  left: 0;
+  top: 0px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  padding: 15px 6px;
+  min-height: calc(100vh - 0px);
+  text-align: center;
+  border-right: 1px solid #e0e0e0;
+}
+.iconsHieght {
+  min-height: calc(100vh - 90px);
+}
+.slideBarHidden {
+  position: absolute;
+  left: 0;
+  top: 0px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 35px #0000001a;
+  border-radius: 0px 10px 10px 0px;
+  padding: 15px 23px 40px 23px;
+  text-align: center;
+  height: 0;
+}
+.slideBarLogoPic {
+  box-shadow: 0px 3px 30px #0000000f;
+  width: 45px;
+  height: 45px;
+  border: 3px solid #0000ff;
+  border-radius: 50%;
+}
+.gridIcon {
+  width: 27px;
+  height: 27px;
+  margin-top: 60px;
+  cursor: pointer;
+}
+.slidBarIconNotActive {
+  /* margin-top: 60px; */
+  cursor: pointer;
+  color: #b9b9b9;
+  font-size: 27px;
+}
+.slidBarIconActive {
+  /* margin-top: 60px; */
+  cursor: pointer;
+  color: #0000ff;
+  font-size: 27px;
+}
+.logoutText {
+  font: normal normal medium 14px/18px Montserrat;
+  letter-spacing: 0px;
+  color: #e61616;
+  margin-top: 6px;
+  text-transform: capitalize;
+}
+.rabContent {
+  padding-top: 5rem;
+  background-color: #f6f6f6;
+  height: 100vh;
+}

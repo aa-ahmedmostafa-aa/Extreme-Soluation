@@ -1,0 +1,134 @@
+
+
+.customModelWidth {
+  max-width: 80%;
+  margin-top: 1.75rem;
+}
+.ModalTitle {
+  font: normal normal medium 28px/34px Montserrat;
+  font-size: 1.5rem;
+  letter-spacing: 0px;
+  color: #0000ff;
+  margin: 1.5rem 0 2rem;
+}
+
+.inputForm {
+  background: #f8f8ff 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  font: normal normal medium 14px/18px Montserrat;
+  letter-spacing: 0px;
+
+  font-size: 0.8rem;
+  border: none;
+  width: 100%;
+  height: 2.5rem;
+  padding: 1rem;
+}
+.inputFormLink {
+  background: #f8f8ff 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  font: normal normal medium 14px/18px Montserrat;
+  font-size: 1.2rem;
+  letter-spacing: 0px;
+  color: #c4c4c4;
+  border: 0.1rem dotted #0000ff;
+  padding: 0.5rem 0.5rem;
+  height: 3.2rem;
+  outline: none;
+}
+.inputForm:focus {
+  outline: none;
+}
+.inputFormSelection {
+  background: #f8f8ff 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  font: normal normal medium 14px/18px Montserrat;
+  font-size: 0.8rem;
+  letter-spacing: 0px;
+  color: #c4c4c4;
+  border: none;
+  padding: 0rem 0.3rem;
+  width: 100%;
+  height: 2.5rem;
+}
+.inputFormSelection:focus {
+  outline: none;
+}
+.inputFormTextArea {
+  width: 100%;
+  min-height: 10rem;
+  background: #f8f8ff 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  border: none;
+  padding: 1rem;
+  overflow: auto;
+}
+.inputFormTextArea:focus {
+  outline: none;
+}
+.contnetSize {
+  width: 600px;
+}
+.ScreenshotsTitle {
+  font: normal normal medium 14px/18px Montserrat;
+  font-size: 0.9rem;
+  padding-left: 0.5rem;
+  letter-spacing: 0px;
+  color: #c4c4c4;
+}
+.uploadArtItemPieceImage {
+  width: 100%;
+  background: #f8f8ff 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  padding: 0.8rem;
+  cursor: pointer;
+  color: #c4c4c4;
+  border: 1px dashed #0000ff;
+}
+.imageUpload {
+  width: 100%;
+  height: 10rem;
+  background: #c4c4c4 0% 0% no-repeat padding-box;
+  border-radius: 0.5rem;
+  margin-right: 0.5rem;
+  margin: 0.5rem 0.5rem 0.5rem 0rem;
+}
+.relatedProduct {
+  font: normal normal medium 14px/18px Montserrat;
+  font-size: 0.8rem;
+  letter-spacing: 0px;
+  color: #0000ff;
+  margin-right: 0.5rem;
+}
+.inputFormTag {
+  background: #f8f8ff 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  font: normal normal medium 14px/18px Montserrat;
+  letter-spacing: 0px;
+  font-size: 0.8rem;
+  border: none;
+  width: 70%;
+  height: 2.5rem;
+  padding: 1rem;
+}
+.addTag {
+  background-color: #0000ff;
+  font: normal normal medium 14px/18px Montserrat;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  display: inline;
+  padding: 0.5rem;
+  margin: 0rem 0.5rem;
+}
+.iconClose {
+  font: normal normal medium 18px/22px Montserrat;
+  font-size: 0.7rem;
+  letter-spacing: 0px;
+  color: #000000;
+  background-color: gray;
+  padding: 0.1rem 0.3rem;
+  margin-left: 0.2rem;
+  border-radius: 50%;
+  cursor: pointer;
+}

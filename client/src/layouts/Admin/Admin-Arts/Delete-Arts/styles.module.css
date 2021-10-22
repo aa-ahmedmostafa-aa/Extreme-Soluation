@@ -1,0 +1,17 @@
+.btnFooer{
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 5px;
+   
+    text-transform: capitalize;
+   
+}
+.btnDeleteColor{
+ background-color: #f51313;
+  color: #fff;
+}
+.btnCancelColor{
+    background-color: #e1dbdb; 
+    color: #000;
+    
+}
